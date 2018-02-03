@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-	// your code goes here
-	int r,c,num;
+
+    int r,c,num;
 	cin>>r>>c;
 	vector<vector<int> > paper(r, vector<int>(c,0));
 	cin>>num;
@@ -19,7 +19,7 @@ int main() {
 	}
 	long sum =0;
 	for(int i=0;i<r;i++)
-	    for(int j=0;j<c;j++) 
+	    for(int j=0;j<c;j++) c
 	        sum += paper[i][j];
 	cout<<sum<<"\n";
 	return 0;
