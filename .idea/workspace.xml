@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94098f51-fa7e-46bc-be3a-4a2e3ab9644a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/283.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/56.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/79.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/find_odd.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/misc/tree_basic.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/42.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +30,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="283.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bleed.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/misc/bleed.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="42.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/42.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="283.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/283.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -80,16 +95,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-409">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="find_odd.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/misc/find_odd.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -143,6 +148,7 @@
         <option value="$PROJECT_DIR$/misc/find_odd.cpp" />
         <option value="$PROJECT_DIR$/Solution.java" />
         <option value="$PROJECT_DIR$/283.cpp" />
+        <option value="$PROJECT_DIR$/42.cpp" />
       </list>
     </option>
   </component>
@@ -421,14 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/misc/bleed.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/misc/find_single_from_twice.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -529,6 +527,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/misc/bleed.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/42.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
           <folding />
         </state>
       </provider>
